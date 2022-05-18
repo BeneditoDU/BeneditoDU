@@ -2,7 +2,7 @@
 ### My name is BeneditoDuailibe and my nickname is "BeneditoDU"!
 
 
-🔭Atualmente estou trabalha na SEMAPA - Secretária de Agricultura Pesca e Abastecimento
+🔭Atualmente estou trabalhando na SEMAPA - Secretária de Agricultura Pesca e Abastecimento
 🌱Atualmente estou aprendendo linguagens de front-end HTML - CSS - PHP - JAVASCRIPT
 👯Estou procurando colaborar com qualquer aprendizado assim como também aceito dicas para evoluir
 🤔Estou procurando ajuda com as linguagens de como fazer um código bem limpo e objetivo
